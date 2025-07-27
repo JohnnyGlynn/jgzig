@@ -1,0 +1,2 @@
+# jgzig
+zig exercises
